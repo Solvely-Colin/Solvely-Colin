@@ -14,6 +14,8 @@ Founder of **[Solvely](https://solvely.net)** — a HubSpot partner that builds 
 npx quorum-ai ask "Should we use microservices or a monolith?"
 ```
 
+**[askquorum.ai](https://askquorum.ai)** — Hosted version of Quorum. Sign up and run deliberations from the browser.
+
 ---
 
 ## Other projects
