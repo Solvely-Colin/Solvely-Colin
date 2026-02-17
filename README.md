@@ -22,8 +22,6 @@ npx quorum-ai ask "Should we use microservices or a monolith?"
 
 **[get-shit-done](https://github.com/gsd-build/get-shit-done)** — Meta-prompting and spec-driven dev system for Claude Code and OpenCode. Maintainer.
 
-**[HubSpot Multi-Property Mapper](https://github.com/Solvely-Colin/HubSpot-Multi-Property-Mapper)** — Bulk property mapping for HubSpot.
-
 ---
 
 ## Stack
@@ -35,14 +33,6 @@ Node.js · Supabase · Neon Postgres
 HubSpot APIs · UI Extensions · Marketplace apps
 Vercel · Cloudflare · GitHub Actions
 ```
-
----
-
-## Stats
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Solvely-Colin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Solvely-Colin&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 
 ---
 
