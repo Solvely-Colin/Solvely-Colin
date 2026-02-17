@@ -20,7 +20,7 @@ npx quorum-ai ask "Should we use microservices or a monolith?"
 
 ## Other projects
 
-**[get-shit-done](https://github.com/Solvely-Colin/get-shit-done)** — Meta-prompting and spec-driven dev system for Claude Code and OpenCode.
+**[get-shit-done](https://github.com/gsd-build/get-shit-done)** — Meta-prompting and spec-driven dev system for Claude Code and OpenCode. Maintainer.
 
 **[vibe-better-with-claude-code](https://github.com/Solvely-Colin/vibe-better-with-claude-code-vbw)** — You're not an engineer anymore. You're a prompt jockey with commit access. At least do it properly.
 
