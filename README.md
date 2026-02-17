@@ -24,18 +24,6 @@ npx quorum-ai ask "Should we use microservices or a monolith?"
 
 ---
 
-## Stack
-
-```
-TypeScript · JavaScript · Python
-React · Next.js · Tailwind CSS
-Node.js · Supabase · Neon Postgres
-HubSpot APIs · UI Extensions · Marketplace apps
-Vercel · Cloudflare · GitHub Actions
-```
-
----
-
 ## Links
 
 [solvely.net](https://solvely.net) · [@kidlionnn](https://x.com/kidlionnn) · colin@solvely.net
