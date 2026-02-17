@@ -39,6 +39,16 @@ Vercel · Cloudflare · GitHub Actions
 
 ---
 
+## Stats
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Solvely-Colin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Solvely-Colin&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Solvely-Colin&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+
+---
+
 ## Links
 
 [solvely.net](https://solvely.net) · [@kidlionnn](https://x.com/kidlionnn) · colin@solvely.net
