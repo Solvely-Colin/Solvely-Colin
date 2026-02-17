@@ -1,6 +1,6 @@
 # Hey, I'm Colin
 
-Founder of **[Solvely](https://solvely.net)** — a HubSpot partner that builds apps and integrations. Sr Manager of CRM at Youth Enrichment Brands by day. Based in Indiana.
+Founder of **[Solvely](https://solvely.net)** — a HubSpot partner that builds apps and integrations. I run CRM at **Youth Enrichment Brands** as a Sr Manager and build the tools I wish existed through Solvely.
 
 ---
 
@@ -13,8 +13,6 @@ Founder of **[Solvely](https://solvely.net)** — a HubSpot partner that builds 
 ```bash
 npx quorum-ai ask "Should we use microservices or a monolith?"
 ```
-
-**[askquorum.ai](https://askquorum.ai)** — Hosted version of Quorum. Coming soon.
 
 ---
 
@@ -33,7 +31,6 @@ TypeScript · JavaScript · Python
 React · Next.js · Tailwind CSS
 Node.js · Supabase · Neon Postgres
 HubSpot APIs · UI Extensions · Marketplace apps
-Claude · GPT · Kimi · Groq · Ollama
 Vercel · Cloudflare · GitHub Actions
 ```
 
@@ -44,8 +41,6 @@ Vercel · Cloudflare · GitHub Actions
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Solvely-Colin&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Solvely-Colin&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Solvely-Colin&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 ---
 
