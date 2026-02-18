@@ -20,6 +20,12 @@ npx quorum-ai ask "Should we use microservices or a monolith?"
 
 ## Other projects
 
+**[Solvely Launchpad](https://github.com/Solvely-Colin/solvely-launchpad)** — Adoption-first CI/CD toolkit for OSS maintainers. Preset-based workflows, policy-as-code, and PR feedback that developers actually read.
+
+```bash
+npx solvely-launchpad init --preset node-lib --yes
+```
+
 **[get-shit-done](https://github.com/gsd-build/get-shit-done)** — Meta-prompting and spec-driven dev system for Claude Code and OpenCode. Maintainer.
 
 ---
