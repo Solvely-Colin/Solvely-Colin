@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.svg" alt="terminal banner" width="100%" />
+</p>
+
 # Hey, I'm Colin
 
 Founder of **[Solvely](https://solvely.net)** — a HubSpot partner that builds apps and integrations. I run CRM at **Youth Enrichment Brands** as a Sr Manager and build the tools I wish existed through Solvely.

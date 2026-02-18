@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 280" fill="none">
+  <style>
+    @keyframes blink {
+      0%, 49% { opacity: 1 }
+      50%, 100% { opacity: 0 }
+    }
+    .terminal-bg { fill: #0d1117; }
+    .titlebar { fill: #161b22; }
+    .dot-red { fill: #ff5f57; }
+    .dot-yellow { fill: #febc2e; }
+    .dot-green { fill: #28c840; }
+    .path-text { fill: #484f58; font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 13px; }
+    .prompt { fill: #7c3aed; font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 14.5px; font-weight: 600; }
+    .cmd { fill: #e6edf3; font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 14.5px; }
+    .flag { fill: #79c0ff; font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 14.5px; }
+    .string { fill: #a5d6ff; font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 14.5px; }
+    .tagline { fill: #484f58; font-family: 'SF Mono', 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 12px; }
+    .cursor { animation: blink 1.2s step-end infinite; }
+  </style>
+
+  <!-- Terminal window -->
+  <rect class="terminal-bg" width="840" height="280" rx="12" />
+
+  <!-- Title bar -->
+  <rect class="titlebar" width="840" height="40" rx="12" />
+  <rect class="titlebar" width="840" height="16" y="24" />
+
+  <!-- Traffic lights -->
+  <circle class="dot-red" cx="24" cy="20" r="6" />
+  <circle class="dot-yellow" cx="44" cy="20" r="6" />
+  <circle class="dot-green" cx="64" cy="20" r="6" />
+
+  <!-- Path in titlebar -->
+  <text class="path-text" x="420" y="25" text-anchor="middle">~/solvely</text>
+
+  <!-- Line 1 -->
+  <text class="prompt" x="28" y="85">$</text>
+  <text class="cmd" x="46" y="85">npx quorum-ai ask</text>
+  <text class="string" x="208" y="85"> "what should I build next?"</text>
+
+  <!-- Line 2 -->
+  <text class="prompt" x="28" y="135">$</text>
+  <text class="cmd" x="46" y="135">npx solvely-launchpad init</text>
+  <text class="flag" x="282" y="135"> --preset</text>
+  <text class="cmd" x="364" y="135"> node-lib</text>
+  <text class="flag" x="442" y="135"> --yes</text>
+
+  <!-- Line 3 with blinking cursor -->
+  <text class="prompt" x="28" y="185">$</text>
+  <text class="cmd" x="46" y="185">cd the-next-thing</text>
+  <rect class="cursor" fill="#e6edf3" x="198" y="173" width="9" height="15" rx="1" />
+
+  <!-- Tagline -->
+  <text class="tagline" x="28" y="248">building tools that should already exist</text>
+</svg>
